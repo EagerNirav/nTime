@@ -1,6 +1,6 @@
 [submodule "nTime-macos"]
 	path = nTime-macos
-	url = https://github.com/EagerNirav/nTime-macos.git
+	url = https://github.com/Eagnir/nTime-macos.git
 [submodule "nTime-ios"]
 	path = nTime-ios
-	url = https://github.com/EagerNirav/nTime-ios.git
+	url = https://github.com/Eagnir/nTime-ios.git
